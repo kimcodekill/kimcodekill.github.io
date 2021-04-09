@@ -3,6 +3,7 @@ layout: post
 title: Fly Swatter
 date: 2021-04-09 11:59 +0200
 img: fly_swatter/fly_swatter.png
+tag: game
 ---
 
 [IF YOU DON'T WANT SPOILERS GO PLAY FLY SWATTER BEFORE YOU READ.](https://kimcodekill.itch.io/fly-swatter)

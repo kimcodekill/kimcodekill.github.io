@@ -1,0 +1,2 @@
+Create Post: bundle exec jekyll post "postname"
+Serve site: bundle exec jekyll serve
